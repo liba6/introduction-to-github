@@ -10,3 +10,7 @@
 console.log(interest)
 
 ```
+
+- [ ] look in mirror
+- [ ] smile
+- [ ] enjoy happiness
